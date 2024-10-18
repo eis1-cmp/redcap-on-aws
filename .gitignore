@@ -7,7 +7,7 @@ node_modules
 .sst
 .build
 .sst*.mjs
-stages.ts
+#stages.ts
 
 # misc
 .DS_Store
